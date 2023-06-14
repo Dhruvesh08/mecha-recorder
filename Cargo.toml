@@ -9,4 +9,3 @@ homepage = "https://github.com/Dhruvesh08/mecha-recorder"
 
 [dependencies]
 alsa = "0.7.0"
-cpal = "0.15.2"
